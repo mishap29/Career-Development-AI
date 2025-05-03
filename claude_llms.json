@@ -1,0 +1,16 @@
+{
+    "llms": [
+        {
+            "name": "Claude 3 Opus",
+            "id": "claude-3-opus"
+        },
+        {
+            "name": "Claude 3 Sonnet",
+            "id": "claude-3-sonnet"
+        },
+        {
+            "name": "Claude 3 Haiku",
+            "id": "claude-3-haiku"
+        }
+    ]
+} 
